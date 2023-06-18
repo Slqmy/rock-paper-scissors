@@ -5,7 +5,7 @@ A simple rock paper scissors game made using `HTML`, `CSS`, and `JS`. This was p
 ## Features
 
 - Basic rock paper scissors gameplay
-- Wins, losses and ties and stored in the local storage
+- Wins, losses and ties are stored in the local storage
 - Reset score button
 - Auto-play mode
 - Keyboard support
